@@ -4,7 +4,7 @@ _______
 
 Hello. Here is He.
 
-The work is about predictive wavelet based image compression inspired by many of my Laboratory researches, like [Mr. takezawa](https://github.com/bamboosteam/n1cnn)
+The work is about predictive wavelet based image compression inspired from many of my Laboratory researches, like [Mr. takezawa](https://github.com/bamboosteam/n1cnn)
 
 
 My workflow is
@@ -16,5 +16,9 @@ My workflow is
 5. Implement the model to C program.
 - Noting that C file in this repository only shows implementation idea of my part
 
+Hope I can graduate in time... A master's degress is the last thing I pursue in my life.
 
+I lazy I hate study.
+
+All of my dream is playing Waifu collection games and receive money from my parents, live as NEET live as weeb.
 
